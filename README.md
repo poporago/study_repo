@@ -1,6 +1,6 @@
 # study_repo
 
-<!--Table-->
+<!--Table
 |Category|Description|Refenrece|
 |:--:|:--:|:--:|
 |OpenCV|Cell2||
@@ -8,3 +8,4 @@
 |Pytorch|파이토치 Docs&tutorial, Kaggle Notebook등 다양한 출처를 통한 파이토치 활용 모델링 공부 흔적 |https://pytorch.org/docs/stable/index.html|
 |scikit-learn|Cell2||
 |Kaggle|Cell2|
+-->
