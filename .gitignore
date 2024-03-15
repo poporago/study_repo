@@ -3,7 +3,7 @@
 
 
 ### CSV Files ###
-.csv
+*.csv
 
 
 ### JupyterNotebooks ###
