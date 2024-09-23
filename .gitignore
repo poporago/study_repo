@@ -7,6 +7,9 @@ note.ipynb
 ### CSV Files ###
 #*.csv
 
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
 # Visual C++ cache files
 ipch/
 *.aps
@@ -18,6 +21,35 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
