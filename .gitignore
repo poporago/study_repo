@@ -3,6 +3,7 @@
 
 ### Custom Region ###
 note.ipynb
+*.jar
 
 ### CSV Files ###
 #*.csv
