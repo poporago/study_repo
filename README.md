@@ -1,10 +1,6 @@
 # study_repo
 공부하며 정리한 소스코드 레포입니다.<br>
-<<<<<<< HEAD
 <br>데이터 과학과 관련한 것들을 다룹니다.
-=======
-<br>데이터 과학과 관련한 캐글 노트북, OpenCV, 파이썬, 파이토치, scikit-learn, 모델 구현, 시각화를 다룹니다.
->>>>>>> cf1e96c183b1daafb5ddbf7da87ea32c1dd231c2
 
 <!--Table
 |Category|Description|Refenrece|
