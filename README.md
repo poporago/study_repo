@@ -1,6 +1,5 @@
 # study_repo
-공부하며 정리한 소스코드 레포입니다.<br>
-<br>데이터 과학과 관련한 것들을 다룹니다.
+data workout - 데이터 과학과 관련한 것들을 다룹니다.
 
 <!--Table
 |Category|Description|Refenrece|
